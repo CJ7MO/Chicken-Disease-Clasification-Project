@@ -125,7 +125,7 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = us-east-2
 
     AWS_ECR_LOGIN_URI = demo>>  110572733024.dkr.ecr.us-east-2.amazonaws.com/cnnclassifier
 
