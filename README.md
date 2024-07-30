@@ -137,16 +137,16 @@ open up you local host and port
 
 ## Save pass:
 
-MA4HO4Da7PPe8rtJNOkirUaGTNgXIR3hR4sOEtoDa3+ACRCusphV
+s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
 
 
 ## Run from terminal:
 
-docker build -t cnnclassifierapp.azurecr.io/cnnclassifier:latest .
+docker build -t chickenapp.azurecr.io/chicken:latest .
 
-docker login cnnclassifierapp.azurecr.io
+docker login chickenapp.azurecr.io
 
-docker push cnnclassifierapp.azurecr.io/cnnclassifier:latest
+docker push chickenapp.azurecr.io/chicken:latest
 
 
 ## Deployment Steps:
